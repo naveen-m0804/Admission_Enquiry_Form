@@ -77,12 +77,12 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
         </p>
 
         <p>
-            <label for="dateOfBirth">Date of Birth:</label>
+            <label>Date of Birth:</label>
             <input type="date" required>
         </p>
 
         <p>
-            <label for="departmentInterested">Department Interested:</label><br>
+            <label>Department Interested:</label><br>
                 <select id="departmentInterested" required>
                     <option value="">Please select</option>
                     <option value="CSE">Computer Science Engineering</option>
@@ -97,21 +97,21 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
         </p>
 
         <p>
-            <label for="academicQualification">Academic Qualification:</label>
-            <textarea id="academicQualification" name="academicQualification" rows="5" cols="50" required></textarea>
+            <label >Academic Qualification:</label>
+            <textarea rows="5" cols="50" required></textarea>
         </p>
 
         <p>
-            <label for="address">Address:</label>
-            <textarea id="address" name="address" rows="5" cols="50" required></textarea>
+            <label>Address:</label>
+            <textarea  rows="5" cols="50" required></textarea>
         </p>
 
         <p>
             <label>Preferred Mode of Contact:</label>
-            <input type="checkbox" id="contactEmail" name="preferredContact" value="email">
-            <label for="contactEmail">Email</label>
-            <input type="checkbox" id="contactPhone" name="preferredContact" value="phone">
-            <label for="contactPhone">Phone</label>
+            <input type="checkbox" value="email">
+            <label>Email</label>
+            <input type="checkbox" value="phone">
+            <label>Phone</label>
         </p>
 
         <p>
