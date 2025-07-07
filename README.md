@@ -92,7 +92,6 @@ No CSS or JavaScript is to be included. Focus on structure and accessibility.
                     <option value="CIVIL">Civil Engineering</option>
                     <option value="IT">Information Technology</option>
                     <option value="AI_ML">Artificial Intelligence and Machine Learning</option>
-                    <option value="CSBS">Computer Science and Business Systems</option>
                 </select>
         </p>
 
